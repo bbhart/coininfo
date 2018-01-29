@@ -1,7 +1,9 @@
 Schemes and Scams
 =================
 
-* Proteum
+**Disclaimer: I am not a lawyer, everyone is innocent until proven guilty, maybe I've severely misunderstood something, etc.**
+
+* Prodeum
     - Highlight: "penis" website; organizers hired people from fiverr.com to write Prodeum on their bodies
     - https://thenextweb.com/hardfork/2018/01/29/cryptocurrency-prodeum-scam-exit-penis/
     - https://www.bloomberg.com/news/articles/2018-01-29/crypto-victims-flush-away-cash-on-deal-that-s-more-uti-than-ico
