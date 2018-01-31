@@ -3,6 +3,8 @@ General Reading
 
 General reading about cryptocurrency and blockchain. Things to think about. Ideally you'd read top down.
 
+On Anonymity
+------------
 * [Anonymous vs pseudononymous](https://tante.cc/2011/08/12/anonymous-vs-pseudonymous/): on most
 of the popular blockchains, you aren't anonymous. You're using a
 nickname 
@@ -12,4 +14,7 @@ nickname
 * Governments and regulators are getting better at turning nicknames into real names. The [U.S. Internal Revenue Service has requested records on Coinbase users](https://medium.com/@GlobalTaxAccountants/irs-narrows-scope-of-coinbase-subpoena-impact-for-coinbase-users-770532755c5e). This is a big step forward in tying transactions to known entities, as long as the coins stay in an exchange the IRS can subpoena. Buy coins and move them to an overseas exchange, though, and it gets much harder. 
 * [Monero](https://www.monero.how/how-does-monero-privacy-work) and similar coins look to provide privacy that the big platforms like Bitcoin and Ethereum weren't designed for.
 
-
+Evaluating Coins
+----------------
+* [CryptoMiso - ranking coins based on github quality](https://www.cryptomiso.com/)
+    * [Article about CryptoMiso](https://news.bitcoin.com/new-website-ranks-600-cryptocurrencies-github-activity/)
