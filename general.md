@@ -18,3 +18,7 @@ Evaluating Coins
 ----------------
 * [CryptoMiso - ranking coins based on github quality](https://www.cryptomiso.com/)
     * [Article about CryptoMiso](https://news.bitcoin.com/new-website-ranks-600-cryptocurrencies-github-activity/)
+
+Individual Coins
+----------------
+* [0x Protocol](https://0xproject.com/) - "0x is an open, permissionless protocol allowing for ERC20 tokens to be traded on the Ethereum blockchain."
